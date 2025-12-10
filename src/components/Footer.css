@@ -1,0 +1,18 @@
+.footer__input__stary{
+  padding: 8px;
+  width: 200px;
+}
+.footer__button__stary{
+    padding-inline: 13px !important;
+    padding: 5px;
+   
+}
+
+@media screen and (max-width: 460px) {
+  .Footer__stay__part {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+  }
+    
+}
